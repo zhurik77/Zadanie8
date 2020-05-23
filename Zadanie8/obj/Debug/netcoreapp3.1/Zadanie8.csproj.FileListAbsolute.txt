@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.exe
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.deps.json
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.runtimeconfig.json
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.dll
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\Zadanie8.pdb
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.dll
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.pdb
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\studentlibs.dll
+C:\Users\Admin\source\repos\Zadanie8\bin\Debug\netcoreapp3.1\studentlibs.pdb
+C:\Users\Admin\source\repos\Zadanie8\obj\Debug\netcoreapp3.1\Zadanie8.csproj.CopyComplete
